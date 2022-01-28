@@ -8,6 +8,6 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
 ## Why JS?
 JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites.
 
-## How to Embedded JS COde in HTML FIle?
+## How to Embedded JS Code in HTML File?
 [<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>](https://medium.com/@aurosaswatraj/4-places-to-put-js-code-bfcb0718e935)
 
