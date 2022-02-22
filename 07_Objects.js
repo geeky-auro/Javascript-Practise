@@ -8,5 +8,7 @@ Math
 Date
 */
 // Document Object
-document.write("<body><h1>Document Object</h1></body>");
-document.writeln("To be written in a new line!");
+document.write("<h1>Document Object</h1>");
+document.writeln("To be written in a new line! with the help of writeln <br>");
+document.write("To be written in a new line! not with the help of writeln");
+// Window Object
