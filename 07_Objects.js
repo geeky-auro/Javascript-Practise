@@ -75,7 +75,6 @@ function Setdate(){
   document.write("<br>");
   var getdate=new Date();
   let assignDate=20;
-  var a=getdate.setDate(assignDate)
-  document.write("To set Date from present Date ("+getdate.getDate()+") to "+a.getDate());
+  document.write("To set Date from present Date ("+getdate.getDate()+") to ");
 }
 Setdate();
