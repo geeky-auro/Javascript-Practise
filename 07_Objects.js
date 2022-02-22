@@ -45,3 +45,5 @@ function Promptonly(){
   document.write("<br>");
   document.write("Entered Password is "+getpassword1);
 }
+
+// Form object
